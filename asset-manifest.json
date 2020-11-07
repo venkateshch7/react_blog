@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/venkateshch7/react_blog.git/static/css/main.440038bf.chunk.css",
+    "main.js": "/venkateshch7/react_blog.git/static/js/main.4ba00649.chunk.js",
+    "main.js.map": "/venkateshch7/react_blog.git/static/js/main.4ba00649.chunk.js.map",
+    "runtime-main.js": "/venkateshch7/react_blog.git/static/js/runtime-main.fb24b9b8.js",
+    "runtime-main.js.map": "/venkateshch7/react_blog.git/static/js/runtime-main.fb24b9b8.js.map",
+    "static/js/2.549c91ad.chunk.js": "/venkateshch7/react_blog.git/static/js/2.549c91ad.chunk.js",
+    "static/js/2.549c91ad.chunk.js.map": "/venkateshch7/react_blog.git/static/js/2.549c91ad.chunk.js.map",
+    "static/js/3.83851fa8.chunk.js": "/venkateshch7/react_blog.git/static/js/3.83851fa8.chunk.js",
+    "static/js/3.83851fa8.chunk.js.map": "/venkateshch7/react_blog.git/static/js/3.83851fa8.chunk.js.map",
+    "index.html": "/venkateshch7/react_blog.git/index.html",
+    "static/css/main.440038bf.chunk.css.map": "/venkateshch7/react_blog.git/static/css/main.440038bf.chunk.css.map",
+    "static/js/2.549c91ad.chunk.js.LICENSE.txt": "/venkateshch7/react_blog.git/static/js/2.549c91ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb24b9b8.js",
+    "static/js/2.549c91ad.chunk.js",
+    "static/css/main.440038bf.chunk.css",
+    "static/js/main.4ba00649.chunk.js"
+  ]
+}
